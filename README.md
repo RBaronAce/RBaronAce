@@ -19,7 +19,7 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <p>
@@ -33,9 +33,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <h3> Shoot me a message <h3>
-<!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-----
-Credit for the readme: [cdthomp1](https://github.com/cdthomp1)
+  
+Credit for the readme: [cdthomp1](https://github.com/cdthomp1), credit where credit is due! [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
