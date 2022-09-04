@@ -5,7 +5,8 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Wrecking national and international physics and chemistry competitions 😎.
+- 🎓 &nbsp; Finishing up highschool!.
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -31,8 +32,8 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<h3> Shoot me a message <h3>
-
+- To contact me, simply shoot me a message here!
+  
   
 
 Credit where credit is due: [cdthomp1](https://github.com/cdthomp1)(for the template),[Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile) (for the badges)
