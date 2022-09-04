@@ -31,8 +31,8 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <h3> Shoot me a message <h3>
 
   
-Credit for the readme: [cdthomp1](https://github.com/cdthomp1), credit where credit is due! [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+Credit where credit is due: [cdthomp1](https://github.com/cdthomp1)(for the template),[Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile) (for the badges)
