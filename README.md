@@ -5,7 +5,6 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Finishing up highschool!.
 - 💙 &nbsp; Extremely interested in free and open source software. I ❤️ engineering and I am a huge post 1800s history nerd!
 
 
